@@ -20,6 +20,6 @@ class TestController
      */
     public function test()
     {
-        return new Response('It\'s work!');
+        return new Response('It works!');
     }
 }
